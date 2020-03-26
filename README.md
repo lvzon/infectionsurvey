@@ -1,5 +1,5 @@
 # infectionsurvey
-Crowdsourced respiratory infection data (self-reported)
+Crowdsourced respiratory infection data, based on self-reported symptoms
 
 This repository will report the results of the following survey: https://ec.europa.eu/eusurvey/runner/crowdsourcedrespinfectiondata
 
